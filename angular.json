@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sportclub"
+    }
+  },
+  "defaultProject": "sportclub",
+  "cli": {
+    "analytics": false
+  }
 }
